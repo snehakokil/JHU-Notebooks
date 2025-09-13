@@ -1,0 +1,9 @@
+text,label
+"If disappointment had a face, it would look like this product.",negative
+"If you enjoy wasting money, this is perfect for you!",negative
+"Yeah, sure, this was the best purchase of my life... said no one ever.",negative
+"It does the job. Nothing more, nothing less.",positive
+Just another product that failed to impress.,negative
+Couldn’t be happier with my purchase!,positive
+"Well, it works, I guess... if you're into that sort of thing.",negative
+"Wow, this exceeded all my expectations!",positive
