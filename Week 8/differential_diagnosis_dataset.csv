@@ -1,0 +1,176 @@
+Patient_ID,Age,Gender,Symptom,Diagnosis_Category,Possible_Diagnosis
+e5196724-d926-4fd7-bc20-e76a16b3d8a6,10,Female,wheezing,Respiratory Issues,asthma
+1701efa5-1d30-4492-89c3-5f5f3174bf2e,24,Female,chest pain,Respiratory Issues,asthma
+d307040a-3519-4c22-b676-ad10f3da80b1,66,Female,shortness of breath,Respiratory Issues,pneumonia
+4ca668f9-077f-446e-aac5-8fb91d79b0b6,64,Female,rapid breathing,Respiratory Issues,pneumonia
+8365de28-a73a-425d-8dce-6d6ada05d9c1,60,Female,cough,Respiratory Issues,pneumonia
+95b09e49-3009-452b-bbb5-65bdf1d56c63,40,Male,chest pain,Respiratory Issues,asthma
+ecace22a-1ee3-4db1-817e-a56166396c20,31,Female,wheezing,Respiratory Issues,asthma
+d3e45a41-3a99-4ec1-a59c-f4964f73d32c,77,Male,wheezing,Respiratory Issues,pneumonia
+6d928508-bd79-4c8d-926e-32b33f07d8c9,79,Female,fatigue,Respiratory Issues,pneumonia
+dfcddeef-d7a9-4714-ad4d-c5ff84655dd1,37,Male,shortness of breath,Respiratory Issues,asthma
+fd8b1144-2b14-4bf1-86b2-0fa44aeaaa5f,30,Female,fatigue,Respiratory Issues,asthma
+03fde28a-cf69-418f-a6ba-7defea51ffe2,66,Male,wheezing,Respiratory Issues,pneumonia
+58b0fcbb-3eab-4a44-ab4e-69a046a63ccd,79,Female,chest pain,Respiratory Issues,pneumonia
+f572e2d8-e14f-4979-906b-de65c8444a3c,79,Female,fatigue,Respiratory Issues,pneumonia
+be61a7ac-5222-454b-9655-8140176b06f7,28,Female,chest pain,Respiratory Issues,asthma
+8ba5abc4-9770-4330-8651-2b4ad3ef8080,63,Male,chest pain,Respiratory Issues,pneumonia
+7146aa31-4996-4967-a85c-b6463f810365,82,Female,shortness of breath,Respiratory Issues,pneumonia
+f4fdafb5-e806-4fcd-a4a7-ec9db88bbb80,64,Male,shortness of breath,Respiratory Issues,pneumonia
+6c005266-5794-48d6-a3c9-52cf9ca230fb,10,Female,fatigue,Respiratory Issues,asthma
+b5b65186-dd5b-4bac-8cee-5f522fa2f6e4,70,Male,bluish lips or face,Respiratory Issues,pneumonia
+c4f4ede7-5902-4464-aeb5-1933e89d0fe2,67,Female,fatigue,Respiratory Issues,pneumonia
+d40c16da-7367-4650-ae38-7565412cfe10,63,Female,fatigue,Respiratory Issues,pneumonia
+dd04a96e-19e9-41d4-b069-3a5d91c97417,68,Male,wheezing,Respiratory Issues,pneumonia
+1764cc29-945c-4ca5-a8ff-e7f9d47ba4ca,30,Female,shortness of breath,Respiratory Issues,asthma
+5b57f6bc-0b45-4abe-9818-f6e323b5be1d,66,Female,fatigue,Respiratory Issues,pneumonia
+aa69f7e1-f091-4762-b943-8fbfd66830a8,16,Male,vomiting,Infectious Diseases,gastroenteritis
+5419bbc5-9955-4795-beca-2d08e5534ef6,19,Female,diarrhea,Infectious Diseases,influenza
+8006470f-3c05-4178-8365-427080011760,67,Female,fever,Infectious Diseases,gastroenteritis
+3777258d-94c7-4fd9-b6ae-f9fda3279c5a,51,Female,vomiting,Infectious Diseases,gastroenteritis
+c2312798-fc56-4eba-80db-42a4737e181c,76,Female,nausea,Infectious Diseases,gastroenteritis
+58f6889d-86e7-4cdd-871e-d7d5f7d19799,75,Male,fever,Infectious Diseases,gastroenteritis
+8ec95720-2631-46d8-9563-1f606ed13651,80,Female,sore throat,Infectious Diseases,influenza
+3580c69b-c728-488e-a6af-5121b4db7e68,45,Female,headache,Infectious Diseases,influenza
+587ba82e-b298-4412-8d36-a1a6f94c7c6c,36,Female,vomiting,Infectious Diseases,gastroenteritis
+9f5b83c5-91e2-4d61-9e22-522d29912053,33,Female,nausea,Infectious Diseases,influenza
+fa6c04ec-18e2-4ea1-9a40-c350f3cab7fc,29,Female,chills,Infectious Diseases,influenza
+eafd6e30-14bc-4bcc-b36f-66126fa51025,87,Female,diarrhea,Infectious Diseases,influenza
+347758cc-d261-48d3-88f6-ac584a890097,68,Male,rash,Infectious Diseases,gastroenteritis
+4f88f312-5748-4f38-9f03-4852a8ae8756,65,Female,fever,Infectious Diseases,influenza
+1033ae85-0031-4ffa-b5c6-f481ad43ba35,55,Male,sore throat,Infectious Diseases,gastroenteritis
+08304a9f-04ce-44ca-90ce-7a245b9ee191,34,Female,rash,Infectious Diseases,influenza
+544607c3-80ef-42f1-813d-93dfc8151e3b,56,Male,sore throat,Infectious Diseases,influenza
+de247b6e-e866-415e-b90e-acde0e6f3458,11,Male,sore throat,Infectious Diseases,influenza
+bb2fb19a-e7fe-4d60-a0d6-087f08431eb3,87,Female,headache,Infectious Diseases,influenza
+4042f763-f4c1-4fcf-9893-c9294aa61cac,85,Female,muscle aches,Infectious Diseases,influenza
+192c7cd0-1eca-4359-bc2e-92302c1956a5,67,Male,chills,Infectious Diseases,gastroenteritis
+58fa335f-5fe5-4035-bb99-9604ea9bba19,33,Female,sore throat,Infectious Diseases,gastroenteritis
+910d50d7-4006-4f1f-9f48-5a85e27435f8,31,Male,sore throat,Infectious Diseases,influenza
+c8220203-44a8-422d-9caf-8fdfb74455af,66,Female,rash,Infectious Diseases,influenza
+e7d07198-7366-40f0-90d1-676924f50e77,57,Male,rash,Infectious Diseases,influenza
+ada45045-55f9-45c4-b7e8-4c32cf90884b,85,Female,palpitations,Cardiovascular Problems,myocardial infarction
+952c6399-a5e7-40cc-ad16-e9bdc46f2a33,88,Female,shortness of breath,Cardiovascular Problems,angina
+f42a478a-0f04-4bf5-9b3e-d86eb164e734,61,Female,dizziness,Cardiovascular Problems,angina
+6f4446c1-45f1-4a19-90a5-c661e4196d43,83,Female,chest pain,Cardiovascular Problems,angina
+9e4c5458-76ba-458d-a8ae-78c0bf38b62a,63,Male,chest pain,Cardiovascular Problems,myocardial infarction
+9e34e72c-2629-4d4e-94fe-197e11ecd62e,54,Male,chest pain,Cardiovascular Problems,angina
+7c67eff1-6017-4dc2-8df3-fc606c8a5bc4,60,Female,dizziness,Cardiovascular Problems,myocardial infarction
+784e08aa-c8e9-4fc6-bcb9-42dd0ceadcba,41,Male,swelling in legs or ankles,Cardiovascular Problems,angina
+62ed4a15-9733-47e6-a607-e7c233dc6d95,49,Male,palpitations,Cardiovascular Problems,myocardial infarction
+6086656f-d4d1-463a-ada1-a32e9030dac5,52,Male,fatigue,Cardiovascular Problems,angina
+0c142286-e290-41bc-81ed-4419d9c3d529,83,Female,sweating,Cardiovascular Problems,myocardial infarction
+c887eba9-bac1-46a4-a6f6-f17063209dd2,65,Female,sweating,Cardiovascular Problems,angina
+6a01bd00-328d-4ceb-a134-2269a7326f92,59,Female,sweating,Cardiovascular Problems,myocardial infarction
+c09871c5-f11c-4897-b32d-371d07914b5b,75,Male,swelling in legs or ankles,Cardiovascular Problems,myocardial infarction
+494be90d-318f-46f9-9e18-8423d8a5bd05,50,Male,nausea,Cardiovascular Problems,myocardial infarction
+300c29a2-90f7-485d-a00e-786ee55248bb,81,Female,nausea,Cardiovascular Problems,angina
+db557d51-177f-4742-871e-e3b5eab1981a,67,Male,swelling in legs or ankles,Cardiovascular Problems,angina
+de20a72c-9cef-4f5f-8731-e17f166367b0,83,Male,dizziness,Cardiovascular Problems,angina
+f9d9e95c-82fb-4fcd-acf5-6287593a8a55,73,Female,shortness of breath,Cardiovascular Problems,angina
+2ee71a4b-6042-457a-9d1f-b3ce4a211fca,60,Female,palpitations,Cardiovascular Problems,myocardial infarction
+9508716f-2b87-482c-ab8f-52840b0d7fad,49,Male,fatigue,Cardiovascular Problems,angina
+b4f96040-4809-48a2-85a9-1ce572f2024c,60,Female,sweating,Cardiovascular Problems,angina
+4ecaf3bb-4b31-4a59-98d2-dd0c4fdecf8d,73,Female,sweating,Cardiovascular Problems,angina
+e4241e6e-e9fc-4fbd-88b7-bdb0aa0b292a,49,Male,shortness of breath,Cardiovascular Problems,myocardial infarction
+60ba3b27-c65b-4796-933b-962c71e8c9ed,68,Female,sweating,Cardiovascular Problems,angina
+a1d180f9-fbe7-429f-91de-a8643b44705b,37,Female,difficulty concentrating,Neurological Conditions,migraine
+267274d4-91c9-4c9e-afb6-5e673b661e75,46,Female,difficulty concentrating,Neurological Conditions,tension headache
+20603345-abb1-4053-8124-2c4ab7e5a496,23,Male,fatigue,Neurological Conditions,migraine
+d39751ea-60c5-4157-8bee-d52513b0941a,32,Male,headache,Neurological Conditions,migraine
+30bd706f-d4a8-4e66-8713-a5be896ad2c3,26,Female,fatigue,Neurological Conditions,tension headache
+f35b5b47-7f3d-44b1-9f79-6001b47aa8f5,46,Male,vision problems,Neurological Conditions,tension headache
+82b1d4de-6d27-4630-ae0c-ab1e675166a6,36,Male,sensitivity to light or sound,Neurological Conditions,migraine
+8c6ed134-1a6d-4007-8bd0-6fea73dae00d,52,Male,numbness or tingling in limbs,Neurological Conditions,tension headache
+76ae5326-078b-479f-917c-6c59135f45d4,26,Female,difficulty concentrating,Neurological Conditions,migraine
+d2cae813-6aaa-4bfc-8b29-12663e1471b0,57,Male,sensitivity to light or sound,Neurological Conditions,tension headache
+c8b320fe-c864-40cb-b464-ba3a65a3f312,33,Female,difficulty concentrating,Neurological Conditions,migraine
+b3337e46-d98d-4366-9f41-db61c5361e7b,52,Female,dizziness,Neurological Conditions,tension headache
+a5991127-5072-40d8-a56f-c15e8d57b226,21,Female,dizziness,Neurological Conditions,migraine
+4ed207c9-bb8a-49aa-a416-fc71372f0059,36,Female,dizziness,Neurological Conditions,migraine
+f4ed2ba4-f2ae-4532-b6ec-af67685fddc5,25,Male,dizziness,Neurological Conditions,tension headache
+41fe4ad2-550f-4403-94b7-feb20985616f,47,Female,dizziness,Neurological Conditions,migraine
+7f4cb7c0-73c2-4a11-bc1d-6b5ceb63443a,22,Male,sensitivity to light or sound,Neurological Conditions,migraine
+b7b47e68-d37a-4fb0-a7af-2ff10a07dfcf,44,Female,fatigue,Neurological Conditions,migraine
+b6bc4d0a-7810-41f0-b4d1-b1eb16f0af43,30,Female,difficulty concentrating,Neurological Conditions,tension headache
+15c04876-44d6-46ba-8bd7-889b3e071db0,34,Male,sensitivity to light or sound,Neurological Conditions,tension headache
+eaa71fdb-747a-4f19-8568-d638f049df4f,29,Female,fatigue,Neurological Conditions,migraine
+89f95886-3f89-4ccb-96a3-91bbfbfde49d,36,Female,numbness or tingling in limbs,Neurological Conditions,migraine
+8df4ead4-b030-4a9c-8626-cedef41b9414,37,Female,difficulty concentrating,Neurological Conditions,migraine
+0a237f70-5a6f-4737-b374-540aec9f76ce,23,Female,vision problems,Neurological Conditions,tension headache
+58a99d7a-84bf-4a2a-b9e9-de0bf2c594d0,26,Male,dizziness,Neurological Conditions,migraine
+894b1fd3-d6f1-44e3-8beb-3a2e33bd9e9c,54,Female,loss of appetite,Gastrointestinal Issues,peptic ulcer disease
+6d444410-e142-4c1c-9af9-548ccb8c5e83,25,Male,loss of appetite,Gastrointestinal Issues,irritable bowel syndrome
+6e4164f2-4f4c-4b9c-8b4e-15b09b948037,36,Male,black or tarry stools,Gastrointestinal Issues,peptic ulcer disease
+492bd156-97d2-49c4-99fa-96d78b0be039,51,Female,vomiting,Gastrointestinal Issues,peptic ulcer disease
+15e13362-54e3-469c-af14-6de389ba64c4,47,Male,abdominal pain,Gastrointestinal Issues,peptic ulcer disease
+2c151c91-2afb-4d8d-895d-37856c310d7e,49,Female,loss of appetite,Gastrointestinal Issues,irritable bowel syndrome
+a5f614db-7640-4c1e-8b8e-8ed691dd1339,22,Female,heartburn,Gastrointestinal Issues,irritable bowel syndrome
+0776e913-4171-40e0-9077-787f0c29b4e7,35,Female,loss of appetite,Gastrointestinal Issues,irritable bowel syndrome
+920d2bba-f9a1-4fd6-81a0-469b6f325740,44,Male,nausea,Gastrointestinal Issues,peptic ulcer disease
+15769a1e-b089-4368-a28e-e78e15dab152,50,Female,unexplained weight loss,Gastrointestinal Issues,irritable bowel syndrome
+caa5e43b-73c6-4cdf-8a1b-ab473c371762,29,Female,vomiting,Gastrointestinal Issues,irritable bowel syndrome
+d1d9a546-a77d-46f9-b387-fa5d6ac309c8,70,Male,abdominal pain,Gastrointestinal Issues,peptic ulcer disease
+d15d78a1-5264-462d-b189-f103776a2b79,55,Female,abdominal pain,Gastrointestinal Issues,irritable bowel syndrome
+5cd917c9-2ea8-4f26-9402-1e096aedaeb8,69,Male,bloating,Gastrointestinal Issues,peptic ulcer disease
+f78c98ab-4de6-4e82-b9cd-3046ecfd5976,70,Female,heartburn,Gastrointestinal Issues,peptic ulcer disease
+1a7bc724-ac59-43f4-b85e-952c0abddc30,21,Male,loss of appetite,Gastrointestinal Issues,irritable bowel syndrome
+010ebd32-edc6-4aaa-9869-4635591761a9,20,Female,nausea,Gastrointestinal Issues,irritable bowel syndrome
+d9240875-578a-44ce-905e-85e0e4287eb7,56,Female,vomiting,Gastrointestinal Issues,irritable bowel syndrome
+e8719c5f-7864-4076-b67a-7a442de40d3d,46,Female,black or tarry stools,Gastrointestinal Issues,peptic ulcer disease
+76d42a10-5380-48f8-a5bd-d21749b1ef0a,47,Female,nausea,Gastrointestinal Issues,irritable bowel syndrome
+773991ce-b91f-4e8c-b127-82d29d7279c7,47,Male,vomiting,Gastrointestinal Issues,irritable bowel syndrome
+a11447c4-4bb0-4ed3-8c78-2b3daac47c4d,86,Male,vomiting,Gastrointestinal Issues,peptic ulcer disease
+25a28b30-0461-4136-8252-1edf91bfabf5,44,Female,abdominal pain,Gastrointestinal Issues,peptic ulcer disease
+8bc8515b-42f4-4d30-9556-690260adcb02,51,Male,abdominal pain,Gastrointestinal Issues,irritable bowel syndrome
+57dcbe04-0cac-4434-99e2-925d00a66a7a,75,Male,heartburn,Gastrointestinal Issues,peptic ulcer disease
+cfca11f6-ec86-47f1-bc1a-3f72c0a6bde5,87,Female,fatigue,Endocrine/Metabolic Conditions,hypothyroidism
+e80443ec-f0f3-4a47-9463-2fe8f4a5ed9a,74,Female,slow wound healing,Endocrine/Metabolic Conditions,hypothyroidism
+9fab1e5d-75c6-4679-ad91-647edcc01ccc,85,Male,increased thirst,Endocrine/Metabolic Conditions,diabetes mellitus
+07eb756a-ed87-4fc4-bb67-804bcaad9c6c,43,Male,increased thirst,Endocrine/Metabolic Conditions,diabetes mellitus
+1e89486f-08c0-4908-b823-72e205bebb3e,35,Female,increased thirst,Endocrine/Metabolic Conditions,diabetes mellitus
+9fdef3f0-2b29-4ca8-bc5d-17eb4c1bedf6,31,Male,blurred vision,Endocrine/Metabolic Conditions,diabetes mellitus
+c86a5eb4-a46b-4154-b7fa-d05cff503147,51,Male,tingling in hands/feet,Endocrine/Metabolic Conditions,diabetes mellitus
+944f0f4d-0516-414f-bd0e-0800daf79743,38,Female,increased thirst,Endocrine/Metabolic Conditions,diabetes mellitus
+55c84c73-752d-4a92-8fb0-671a8a4dc99c,62,Female,fatigue,Endocrine/Metabolic Conditions,diabetes mellitus
+eb8d3936-ba3d-44db-a350-8ac762fd2860,71,Female,fatigue,Endocrine/Metabolic Conditions,diabetes mellitus
+4a709556-3026-42bd-b2cc-146b2d94e25b,49,Female,increased thirst,Endocrine/Metabolic Conditions,hypothyroidism
+8d852f42-7cc8-47e2-869b-aa45ddc635d9,43,Female,blurred vision,Endocrine/Metabolic Conditions,diabetes mellitus
+befa5743-bc10-4463-949f-0598b5e69200,41,Male,tingling in hands/feet,Endocrine/Metabolic Conditions,hypothyroidism
+12dd30e9-cfb2-4ed7-bcaa-caf667e953c6,33,Female,tingling in hands/feet,Endocrine/Metabolic Conditions,hypothyroidism
+ad293c4f-5477-4a1c-9a06-41747b007b5b,83,Male,fatigue,Endocrine/Metabolic Conditions,diabetes mellitus
+b10b6704-f645-421f-818f-d7bfdcfbf3e8,55,Male,slow wound healing,Endocrine/Metabolic Conditions,hypothyroidism
+ad679c3f-14a0-4e3c-8a62-14cc34699178,86,Female,tingling in hands/feet,Endocrine/Metabolic Conditions,diabetes mellitus
+fd2942cf-94cb-4a11-9403-4ef40e7ead29,60,Female,blurred vision,Endocrine/Metabolic Conditions,diabetes mellitus
+83c3eacc-5332-4bb3-ab18-9f77172bf8e8,54,Female,unintended weight loss,Endocrine/Metabolic Conditions,hypothyroidism
+36e8d9f3-3e27-42ff-b91f-0e353843173f,44,Male,unintended weight loss,Endocrine/Metabolic Conditions,diabetes mellitus
+469fc948-9b1c-4715-914b-1bfebcb00084,48,Female,slow wound healing,Endocrine/Metabolic Conditions,diabetes mellitus
+3b81d029-0577-4701-8303-30614519e841,59,Female,increased thirst,Endocrine/Metabolic Conditions,diabetes mellitus
+563ce512-c226-482d-b8e6-a1a8a642437b,36,Female,frequent urination,Endocrine/Metabolic Conditions,diabetes mellitus
+a1f2c14f-07c3-4a9c-9b69-83bbc6e3fa31,45,Female,tingling in hands/feet,Endocrine/Metabolic Conditions,diabetes mellitus
+8a55134d-b061-411a-ab6e-bdaaf9691490,37,Female,unintended weight loss,Endocrine/Metabolic Conditions,hypothyroidism
+845fa5b6-adbc-41ce-b6e2-b9cbd368301f,40,Female,limited range of motion,Musculoskeletal Disorders,gout
+ced1bb49-9664-41cf-be5b-60bd4bef53a7,62,Female,swelling,Musculoskeletal Disorders,gout
+9497ccd2-4014-4ee2-bb64-daad397b1e42,50,Female,swelling,Musculoskeletal Disorders,arthritis
+0664a304-87a3-4fce-8d0a-44d819740eaf,60,Female,stiffness,Musculoskeletal Disorders,arthritis
+d289dfa8-0edb-4cad-a1d1-465ccfcd13d3,43,Female,muscle weakness,Musculoskeletal Disorders,gout
+f5f9ee53-fa37-4e55-a33a-0f480788e38b,71,Female,swelling,Musculoskeletal Disorders,arthritis
+1c7bb014-4be0-4b50-85cb-93386014498c,62,Female,stiffness,Musculoskeletal Disorders,arthritis
+1d0dd189-91e8-4589-9983-9619f75e2f1d,81,Female,warmth around joints,Musculoskeletal Disorders,arthritis
+763818a8-5227-436d-8ff7-0e03fbdcd88a,81,Female,stiffness,Musculoskeletal Disorders,gout
+2cacbb39-acb4-4da7-87f0-9a62909b7488,89,Female,swelling,Musculoskeletal Disorders,arthritis
+8e921dcc-1e87-4785-9b2e-5ebb86046f2d,51,Male,stiffness,Musculoskeletal Disorders,arthritis
+4ed303d8-f60a-4f4a-a4f5-f64d944f4fd4,43,Female,warmth around joints,Musculoskeletal Disorders,gout
+aae0c18e-6a61-41cc-8f87-04dfe390ff60,57,Female,limited range of motion,Musculoskeletal Disorders,gout
+a512352d-6bb5-495e-97ca-40c661c97bb6,43,Male,limited range of motion,Musculoskeletal Disorders,arthritis
+40bd078e-438b-4b53-8d16-3399b55fb768,73,Male,joint pain,Musculoskeletal Disorders,gout
+b724dcdf-90dc-4a80-b59f-ad6ffc9272c8,41,Male,stiffness,Musculoskeletal Disorders,gout
+1ff575e0-18ef-42a2-9036-a6dd9fc22a90,62,Female,joint pain,Musculoskeletal Disorders,gout
+918cade0-c87e-48f7-884f-5657fb59683e,65,Female,swelling,Musculoskeletal Disorders,gout
+20d4fe89-cc41-47e2-bd46-76492be4a93c,71,Male,warmth around joints,Musculoskeletal Disorders,gout
+d4c969e7-a2f8-4fc3-baa4-a941a9ccdaa4,85,Male,swelling,Musculoskeletal Disorders,gout
+55fe91cb-56ce-4c56-a149-d4ff0cb20246,74,Male,joint pain,Musculoskeletal Disorders,gout
+3ec18364-956d-4dc5-9b7f-09524e057812,69,Female,limited range of motion,Musculoskeletal Disorders,gout
+8d1523b1-89e7-45ba-82ff-d815a6d125ae,86,Female,muscle weakness,Musculoskeletal Disorders,arthritis
+929d3c33-3b20-4a7c-83d3-b780d5200ff4,81,Female,limited range of motion,Musculoskeletal Disorders,gout
+be19c30d-eee0-4dfe-8a06-01f41122f8a8,47,Male,swelling,Musculoskeletal Disorders,gout
