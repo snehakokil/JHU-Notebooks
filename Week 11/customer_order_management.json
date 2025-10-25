@@ -1,0 +1,330 @@
+{"M10001": {
+        "name": "Alice Brown",
+        "address": "123 Elm St, NY, USA",
+        "last_order": "iPhone 14 Pro",
+        "last_order_no": 1001,
+        "card_no": "4111-5678-9012-3456",
+        "joined_on": "2023-02-14",
+        "return_placed_requested": "Placed",
+        "return_status": "Approved",
+        "refund_status": "Processed",
+        "order_status": "returned",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-02-21",
+        "membership_type": "Gold",
+        "last_order_invoice": "INV-1001",
+        "total_orders": 15,
+        "total_refund": 3,
+        "account_flagged": 0,
+        "refund_window": "14 days",
+        "return_conditions": {"general_information": [
+                "Device must be unused and in original packaging",
+                "No physical damage or scratches",
+                "All accessories must be included",
+                "Apple ID and iCloud must not be linked"
+            ],
+            "checks": [
+                "Excessive return history from customer",
+                "Fraudulent activity detected (IMEI flagged)",
+                "Device usage logs indicate significant usage",
+                "AppleCare claim initiated or completed"
+            ]
+        }
+    },
+    "M10002": {
+        "name": "Bob Smith",
+        "address": "456 Oak Ave, CA, USA",
+        "last_order": "Samsung Galaxy S23",
+        "last_order_no": 1002,
+        "card_no": "5500-2345-6789-0123",
+        "joined_on": "2021-06-21",
+        "return_placed_requested": "Requested",
+        "return_status": "Pending",
+        "refund_status": "Not Started",
+        "order_status": "Processing return",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-03-16",
+        "membership_type": "Silver",
+        "last_order_invoice": "INV-1002",
+        "total_orders": 8,
+        "total_refund": 1,
+        "account_flagged": 0,
+        "refund_window": "30 days",
+        "return_conditions": {
+            "general_information": [
+                "Device must be unused and in original packaging",
+                "No physical damage or cracks",
+                "All accessories and original box must be included",
+                "Samsung account must be unlinked"
+            ],
+            "checks": [
+                "Customer has a history of excessive returns",
+                "IMEI flagged for fraudulent activity",
+                "Device logs show significant usage",
+                "Samsung Care+ claim initiated or completed"
+            ]
+        }
+    },
+    "M10003": {
+        "name": "Charlie Doe",
+        "address": "789 Maple Rd, TX, USA",
+        "last_order": "MacBook Air M2",
+        "last_order_no": 1003,
+        "card_no": "3401-8765-4321-0987",
+        "joined_on": "2022-09-10",
+        "return_placed_requested": "None",
+        "return_status": "N/A",
+        "refund_status": "N/A",
+        "order_status": "Delivered",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-03-17",
+        "membership_type": "Platinum",
+        "last_order_invoice": "INV-1003",
+        "total_orders": 5,
+        "total_refund": 0,
+        "account_flagged": 0,
+        "refund_window": "14 days",
+        "return_conditions": {
+            "general_information": [
+                "Laptop must be in original condition with no physical damage",
+                "Original packaging and accessories must be included",
+                "macOS must not be set up with an Apple ID",
+                "No custom configurations (RAM or SSD upgrades) applied"
+            ],
+            "checks": [
+                "Frequent return requests from customer",
+                "Device usage logs indicate extended use",
+                "AppleCare+ claim initiated or completed",
+                "Signs of unauthorized modifications detected"
+            ]
+        }
+    },
+    "M10004": {
+        "name": "Diana Lee",
+        "address": "159 Pine St, FL, USA",
+        "last_order": "Sony WH-1000XM5",
+        "last_order_no": 1004,
+        "card_no": "6011-1234-5678-9012",
+        "joined_on": "2020-12-05",
+        "return_placed_requested": "Placed",
+        "return_status": "Under Review",
+        "refund_status": "Pending",
+        "order_status": "Processing return",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery":"2025-03-10",
+        "membership_type": "Gold",
+        "last_order_invoice": "INV-1004",
+        "total_orders": 20,
+        "total_refund": 6,
+        "account_flagged": 1,
+        "refund_window": "30 days",
+        "return_conditions": {
+            "general_information": [
+                "Headphones must be in unused condition with original packaging",
+                "No visible wear on ear cushions or headband",
+                "All accessories must be included (charging cable, case, adapter)"
+            ],
+            "checks": [
+                "Customer has a history of excessive returns",
+                "Signs of significant use detected in Bluetooth logs",
+                "Accessory damage or replacement detected"
+            ]
+        }
+    },
+    "M10005": {
+        "name": "Evan Green",
+        "address": "753 Birch Blvd, WA, USA",
+        "last_order": "Google Pixel 8",
+        "last_order_no": 1005,
+        "card_no": "5100-3456-7890-1234",
+        "joined_on": "2024-03-18",
+        "return_placed_requested": "Requested",
+        "return_status": "Rejected",
+        "refund_status": "Not Started",
+        "order_status": "Canceled",
+        "reason_for_return_rejection": "Unverified defects",
+        "expected_delivery": "2025-02-27",
+        "membership_type": "Silver",
+        "last_order_invoice": "N/A",
+        "total_orders": 3,
+        "total_refund": 0,
+        "account_flagged": 0,
+        "refund_window": "30 days",
+        "return_conditions": {
+        "general_information": [
+            "Device must be unused and in original packaging",
+            "No physical damage, scratches, or water damage",
+            "All accessories (charger, cable, SIM ejector tool) must be included",
+            "Device must not be linked to a Google account"
+        ],
+        "checks": [
+            "Excessive return history from customer",
+            "Fraudulent activity detected (IMEI flagged)",
+            "Device bootloader unlocked or software modified",
+            "Signs of extended usage (battery cycles, screen time logs)"
+        ]
+    }
+    },
+    "M10006": {
+        "name": "Fiona White",
+        "address": "951 Cedar Ln, IL, USA",
+        "last_order": "Dell XPS 15",
+        "last_order_no": 1006,
+        "card_no": "3700-7890-1234-5678",
+        "joined_on": "2021-11-30",
+        "return_placed_requested": "None",
+        "return_status": "N/A",
+        "refund_status": "N/A",
+        "order_status": "Delivered",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-02-27",
+        "membership_type": "Platinum",
+        "last_order_invoice": "INV-1006",
+        "total_orders": 7,
+        "total_refund": 1,
+        "account_flagged": 0,
+        "refund_window": "14 days",
+        "return_conditions": {
+        "general_information": [
+            "Laptop must be unused and in original packaging",
+            "No physical damage, dents, or scratches",
+            "All accessories (charger, adapter, manuals) must be included",
+            "Windows must not be activated with a Microsoft account"
+        ],
+        "checks": [
+            "Frequent returns from customer flagged in history",
+            "BIOS settings altered (boot sequence modified, firmware updated)",
+            "Customization detected (RAM or SSD upgrades applied)",
+            "Hardware tampering detected (case opened, screws removed)"
+        ]
+    }
+    },
+    "M10007": {
+        "name": "George King",
+        "address": "852 Spruce Dr, MA, USA",
+        "last_order": "Bose QC45",
+        "last_order_no": 1007,
+        "card_no": "6011-4321-0987-6543",
+        "joined_on": "2019-07-22",
+        "return_placed_requested": "Placed",
+        "return_status": "Approved",
+        "refund_status": "Processed",
+        "order_status": "Retruned",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-02-20",
+        "membership_type": "Gold",
+        "last_order_invoice": "INV-1007",
+        "total_orders": 12,
+        "total_refund": 3,
+        "account_flagged": 0,
+        "refund_window": "30 days",
+        "return_conditions": {
+        "general_information": [
+            "Headphones must be in original packaging",
+            "No visible signs of use (ear cushions, headband must be clean)",
+            "All accessories (charging cable, adapter, carrying case) must be included",
+            "Device must not have Bluetooth pairing history stored"],
+        "checks": [
+            "Customer flagged for excessive returns",
+            "Signs of extended usage (battery wear, audio driver logs)",
+            "Tampering detected (disassembled, internal modifications made)",
+            "Packaging shows signs of being resealed or tampered with"
+        ]}
+    },
+    "M10008": {
+        "name": "Hannah Fox",
+        "address": "369 Redwood Ct, AZ, USA",
+        "last_order": "iPad Pro 12.9",
+        "last_order_no": 1008,
+        "card_no": "4111-2345-6789-0123",
+        "joined_on": "2023-05-08",
+        "return_placed_requested": "Requested",
+        "return_status": "Under Review",
+        "refund_status": "Pending",
+        "order_status": "Processing Return",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-03-3",
+        "membership_type": "Silver",
+        "last_order_invoice": "INV-1008",
+        "total_orders": 9,
+        "total_refund": 2,
+        "account_flagged": 0,
+        "refund_window": "14 days",
+        "return_conditions": {
+        "general_information": [
+            "Device must be unused and in original packaging",
+            "No physical damage or scratches",
+            "All accessories, including charger and box, must be included",
+            "Apple ID and iCloud must not be linked"
+        ],
+        "checks": [
+            "Excessive return history from customer",
+            "Fraudulent activity detected (IMEI flagged)",
+            "Device usage logs indicate significant usage",
+            "AppleCare claim initiated or completed"
+        ]
+    }
+    },
+    "M10009": {
+        "name": "Ian Black",
+        "address": "147 Willow Way, NV, USA",
+        "last_order": "Xbox Series X",
+        "last_order_no": 1009,
+        "card_no": "5500-8765-4321-0987",
+        "joined_on": "2022-01-15",
+        "return_placed_requested": "None",
+        "return_status": "N/A",
+        "refund_status": "N/A",
+        "order_status": "Delivered",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-03-10",
+        "membership_type": "Platinum",
+        "last_order_invoice": "INV-1009",
+        "total_orders": 6,
+        "total_refund": 0,
+        "account_flagged": 0,
+        "refund_window": "30 days",
+        "return_conditions": {
+        "general_information": [
+            "Console must be in original packaging with all accessories",
+            "No physical damage, scratches, or dents",
+            "Console must not be linked to a Microsoft account",
+            "No games or media installed on internal storage"],
+        "checks": [
+            "Frequent returns from the same customer",
+            "Device flagged for fraudulent activity",
+            "Signs of overheating or hardware tampering",
+            "Warranty or service claim already initiated"]}
+    },
+    "M10010": {
+        "name": "Jessica Adams",
+        "address": "321 Cypress St, CO, USA",
+        "last_order": "Apple Watch Ultra",
+        "last_order_no": 1010,
+        "card_no": "6011-5678-1234-8901",
+        "joined_on": "2018-08-22",
+        "return_placed_requested": "Placed",
+        "return_status": "Approved",
+        "refund_status": "Processed",
+        "order_status": "Returned",
+        "reason_for_return_rejection": "N/A",
+        "expected_delivery": "2025-03-01",
+        "membership_type": "Gold",
+        "last_order_invoice": "INV-1010",
+        "total_orders": 18,
+        "total_refund": 5,
+        "account_flagged": 1,
+        "refund_window": "30 days",
+        "return_conditions": {
+        "general_information": [
+        "Apple Watch must be unused and in original packaging",
+        "No physical damage, dents, or scratches on the case or screen",
+        "All accessories (charger, band, documentation) must be included",
+        "Device must not be paired with an Apple ID or iCloud account"],
+        "checks": [
+        "Frequent returns from customer flagged in history",
+        "Find My feature must be disabled",
+        "WatchOS software must not be altered or downgraded",
+        "Hardware tampering detected (case opened, screws removed, water damage indicators triggered)"]}
+        }
+}
